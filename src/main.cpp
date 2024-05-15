@@ -7,5 +7,6 @@ int main(int argc, char *argv[]) {
   QApplication a(argc, argv);
   Class123 w;
   w.show();
+  // shit
   return a.exec();
 }
