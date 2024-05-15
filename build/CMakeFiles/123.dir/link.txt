@@ -1,3 +1,0 @@
-D:\Qt\QT\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\123.dir/objects.a
-D:\Qt\QT\Tools\mingw1120_64\bin\ar.exe qc CMakeFiles\123.dir/objects.a @CMakeFiles\123.dir\objects1.rsp
-D:\Qt\QT\Tools\mingw1120_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\123.dir/objects.a -Wl,--no-whole-archive -o 123.exe -Wl,--out-implib,lib123.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\123.dir\linkLibs.rsp

@@ -1,8 +1,0 @@
-D:/Qt/test/vscode/build/CMakeFiles/123.dir
-D:/Qt/test/vscode/build/CMakeFiles/edit_cache.dir
-D:/Qt/test/vscode/build/CMakeFiles/rebuild_cache.dir
-D:/Qt/test/vscode/build/CMakeFiles/list_install_components.dir
-D:/Qt/test/vscode/build/CMakeFiles/install.dir
-D:/Qt/test/vscode/build/CMakeFiles/install/local.dir
-D:/Qt/test/vscode/build/CMakeFiles/install/strip.dir
-D:/Qt/test/vscode/build/CMakeFiles/123_autogen.dir
