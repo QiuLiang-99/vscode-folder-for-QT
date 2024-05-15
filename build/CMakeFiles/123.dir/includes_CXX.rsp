@@ -1,0 +1,1 @@
+-ID:/Qt/test/vscode/build -ID:/Qt/test/vscode -ID:/Qt/test/vscode/build/123_autogen/include -isystem D:/Qt/QT/6.6.2/mingw_64/include/QtCore -isystem D:/Qt/QT/6.6.2/mingw_64/include -isystem "D:/Qt/QT/6.6.2/mingw_64/mkspecs/win32-g++" -isystem D:/Qt/QT/6.6.2/mingw_64/include/QtWidgets -isystem D:/Qt/QT/6.6.2/mingw_64/include/QtGui
